@@ -6,6 +6,7 @@ if (anyNumberText.Length > 2)
 }
 else {
   Console.WriteLine("-> третьей цифры нет");
+
 }
 
 
